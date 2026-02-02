@@ -2,6 +2,8 @@
 
 This repository contains all SIEM (Security Information and Event Management) related configurations, scripts, and resources running in my homelab. It serves as a central hub for monitoring, logging, alerting, and security analysis.
 
+This repository is actively under development. More configurations, enhancements, and documentation will be added as the homelab SIEM environment evolves.
+
 ---
 
 ## Overview
